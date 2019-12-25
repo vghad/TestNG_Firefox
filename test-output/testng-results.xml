@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-25T11:16:09 IST" name="Default suite" finished-at="2019-12-25T11:16:27 IST" duration-ms="18089">
+    <groups>
+    </groups>
+    <test started-at="2019-12-25T11:16:09 IST" name="Default test" finished-at="2019-12-25T11:16:27 IST" duration-ms="18089">
+      <class name="tests.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@43ee72e6]" started-at="2019-12-25T11:16:09 IST" name="beforeClass" finished-at="2019-12-25T11:16:17 IST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.NewTest@43ee72e6]" started-at="2019-12-25T11:16:17 IST" name="openBrowser" finished-at="2019-12-25T11:16:25 IST" duration-ms="8354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="f()[pri:0, instance:tests.NewTest@43ee72e6]" started-at="2019-12-25T11:16:25 IST" name="f" finished-at="2019-12-25T11:16:27 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="postSignUp()[pri:0, instance:tests.NewTest@43ee72e6]" started-at="2019-12-25T11:16:27 IST" name="postSignUp" finished-at="2019-12-25T11:16:27 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSignUp -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@43ee72e6]" started-at="2019-12-25T11:16:27 IST" name="afterClass" finished-at="2019-12-25T11:16:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
