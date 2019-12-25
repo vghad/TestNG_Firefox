@@ -1,0 +1,1 @@
+D:>-java -cp "D:\Software\eclipse_workspace\TestDemo\*" org.testng.TestNG testng.xml
