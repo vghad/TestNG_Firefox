@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: QS-TS-07
-Build-Jdk: 14-ea
+Built-By: QS-TS-06
+Build-Jdk: 13.0.1
 Created-By: Maven Integration for Eclipse
 
