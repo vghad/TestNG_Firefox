@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-25T16:49:08 IST" name="Default suite" finished-at="2019-12-25T16:49:24 IST" duration-ms="15184">
+  <suite started-at="2019-12-25T17:22:56 IST" name="Default suite" finished-at="2019-12-25T17:23:54 IST" duration-ms="58467">
     <groups>
     </groups>
-    <test started-at="2019-12-25T16:49:08 IST" name="Default test" finished-at="2019-12-25T16:49:24 IST" duration-ms="15184">
+    <test started-at="2019-12-25T17:22:56 IST" name="Default test" finished-at="2019-12-25T17:23:54 IST" duration-ms="58467">
       <class name="tests.NewTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T16:49:08 IST" name="beforeClass" finished-at="2019-12-25T16:49:16 IST" duration-ms="7566" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T17:22:56 IST" name="beforeClass" finished-at="2019-12-25T17:23:42 IST" duration-ms="46352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T16:49:16 IST" name="openBrowser" finished-at="2019-12-25T16:49:23 IST" duration-ms="6721" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T17:23:42 IST" name="openBrowser" finished-at="2019-12-25T17:23:51 IST" duration-ms="8812" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="f()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T16:49:23 IST" name="f" finished-at="2019-12-25T16:49:24 IST" duration-ms="865" status="PASS">
+        <test-method signature="f()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T17:23:51 IST" name="f" finished-at="2019-12-25T17:23:54 IST" duration-ms="2819" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="postSignUp()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T16:49:24 IST" name="postSignUp" finished-at="2019-12-25T16:49:24 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="postSignUp()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T17:23:54 IST" name="postSignUp" finished-at="2019-12-25T17:23:54 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postSignUp -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T16:49:24 IST" name="afterClass" finished-at="2019-12-25T16:49:24 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@38c5cc4c]" started-at="2019-12-25T17:23:54 IST" name="afterClass" finished-at="2019-12-25T17:23:54 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
